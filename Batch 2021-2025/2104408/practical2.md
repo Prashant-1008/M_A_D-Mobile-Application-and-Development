@@ -104,3 +104,7 @@
   - Layouts: XML files that define the UI of an activity.
   - Resources: Images, strings, colors, etc., used in your app.
   - Manifests: Configuration file for app settings and permissions.
+
+## References
+- [Android Studio Documentation](https://developer.android.com/studio/intro)
+- [Android Developers Guide](https://developer.android.com/guide)
